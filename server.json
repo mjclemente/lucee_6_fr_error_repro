@@ -1,0 +1,19 @@
+{
+    "name":"lucee_6_fr_error_repro",
+    "debug":true,
+    "app":{
+        "cfengine":"lucee@6.2.0+321"
+    },
+    "jvm":{
+        "javaVersion":"openjdk21_jre"
+    },
+    "web":{
+        "blockCFAdmin":false
+    },
+    "trayEnable":false,
+    "fusionreactor":{
+        "enable":true,
+        "port":"8088",
+        "installID":"fusionreactor@12.1.1"
+    }
+}
