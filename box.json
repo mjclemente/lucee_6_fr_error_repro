@@ -3,7 +3,6 @@
     "version":"1.0.0",
     "dependencies":{
         "commandbox-fusionreactor":"5.0.0",
-        "commandbox-cfconfig":"2.1.0",
         "fw1":"^4.3.0"
     },
     "installPaths":{
